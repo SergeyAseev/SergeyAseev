@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Sergey
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Where and by whom I worked reflects my interests in life. Scientific worker - I wanted to discover new worlds; backend developer - I wanted to do useful things and explore the world of IT; data engineer - in childhood I wanted to be an architect =)
 
